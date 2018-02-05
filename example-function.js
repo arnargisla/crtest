@@ -1,5 +1,5 @@
 function displayStatus() {
-  var appElement = document.querySelector("#app");
+  const appElement = document.querySelector("#app");
   appElement.innerHTML = '';
 
   appendStatusLineToElement("Status1: example status message1", appElement);

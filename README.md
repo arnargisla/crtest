@@ -4,4 +4,4 @@ This repository was created in order to test a workflow involving pull requests 
 
 # Examples
 
-1 + 1 = 2
+1 + 1 = 2 // One plus one is two.
